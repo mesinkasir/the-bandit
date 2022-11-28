@@ -1,0 +1,22 @@
+a:link,
+a:visited,
+a:hover {
+color:black;
+text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+  color: black;
+}
+tag {
+font-size: 10px;
+}
+img {
+border-radius: 10px;
+}
