@@ -4,8 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<?php echo Theme::metaTagTitle(); ?>
-<meta name="twitter:title" content="<?php echo $page->title(); ?>"/>
-<meta name="twitter:description" content="<?php echo $page->description(); ?>"/>
+	<meta name="generator" content="Bludit">
 	<?php echo Theme::metaTagDescription(); ?>
 	<?php echo Theme::favicon('img/favicon.png'); ?>
 <?php echo Theme::css('css/bs.css'); ?>
