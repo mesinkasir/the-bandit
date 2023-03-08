@@ -12,17 +12,15 @@
 <meta name="generator" content="Bludit">
 </head>
 <body>
-	<?php Theme::plugins('siteBodyBegin'); ?>
-	<?php include(THEME_DIR_PHP.'navbar.php'); ?>
-	<?php
-		if ($WHERE_AM_I == 'page') {
-			include(THEME_DIR_PHP.'page.php');
-		} else {
-			include(THEME_DIR_PHP.'home.php');
-		}
-	?>
-	<?php include(THEME_DIR_PHP.'footer.php'); ?>
-	<?php Theme::plugins('siteBodyEnd'); ?>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-</body>
+<?php Theme::plugins('siteBodyBegin'); ?>
+<?php include(THEME_DIR_PHP.'navbar.php'); ?>
+<?php if ($WHERE_AM_I == 'page') {
+include(THEME_DIR_PHP.'page.php');
+} else {
+include(THEME_DIR_PHP.'home.php');
+} ?>
+php include(THEME_DIR_PHP.'footer.php'); ?>
+<?php Theme::plugins('siteBodyEnd'); ?>
+<?php echo Theme::js('js/bs.js'); ?>
+	</body>
 </html>
