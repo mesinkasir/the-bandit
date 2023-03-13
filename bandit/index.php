@@ -19,7 +19,7 @@ include(THEME_DIR_PHP.'page.php');
 } else {
 include(THEME_DIR_PHP.'home.php');
 } ?>
-php include(THEME_DIR_PHP.'footer.php'); ?>
+<?php include(THEME_DIR_PHP.'footer.php'); ?>
 <?php Theme::plugins('siteBodyEnd'); ?>
 <?php echo Theme::js('js/bs.js'); ?>
 	</body>
