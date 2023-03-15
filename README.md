@@ -6,6 +6,8 @@ Run demo [https://axcora.my.id/bludit](https://axcora.my.id/bludit/)
 
 Documentation : [https://www.hockeycomputindo.com/2022/12/bludit-template-freemium-seo-source.html](https://www.hockeycomputindo.com/2022/12/bludit-template-freemium-seo-source.html)
 
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
+
 Plugins.zip is all plugin for the bandit themes - extract zip files and paste on bl-plugins
 
 --------------------------------------
@@ -19,6 +21,8 @@ Plugins.zip is all plugin for the bandit themes - extract zip files and paste on
 Run demo [https://axcora.my.id/bludit](https://axcora.my.id/bludit/)
 
 Documentation : [https://www.hockeycomputindo.com/2022/12/bludit-template-freemium-seo-source.html](https://www.hockeycomputindo.com/2022/12/bludit-template-freemium-seo-source.html)
+
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
 
 Plugins.zip is all plugin for the bandit themes - extract zip files and paste on bl-plugins
 
