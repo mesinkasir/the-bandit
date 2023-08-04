@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+<nav class="navbar navbar-expand-lg  bg-white fixed-top">
   <div class="container">
 		<a class="navbar-brand" href="<?php echo Theme::siteUrl(); ?>"><img class="img-fluid" width="20" height="20" alt="<?php echo $site->title(); ?>" loading="lazy" src="<?php echo DOMAIN_THEME_IMG.'favicon.png'; ?>"/> 
 			<strong><?php echo $site->title(); ?></strong>
