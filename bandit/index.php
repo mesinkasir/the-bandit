@@ -21,6 +21,6 @@ include(THEME_DIR_PHP.'home.php');
 } ?>
 <?php include(THEME_DIR_PHP.'footer.php'); ?>
 <?php Theme::plugins('siteBodyEnd'); ?>
-<?php echo Theme::js('js/bs.js'); ?>
-	</body>
+<?php echo Theme::jquery(); echo Theme::jsBootstrap(); ?>
+</body>
 </html>
