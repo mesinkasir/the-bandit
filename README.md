@@ -1,5 +1,13 @@
 # THE BANDIT
 
+Download New Version: https://creativitaz.gumroad.com/l/bandit
+
+Explore all projects: https://hockeycomputindo.com/themes/bludit
+
+Official: https://bludit.axcora.com
+
+----
+
 clean design themes template for bludit flatfile cms.
 
 Run demo [https://axcora.my.id/bludit](https://axcora.my.id/bludit/)
